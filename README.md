@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="public/vance.png" alt="VANCE Banner" width="800"/>
+</div>
+
 # VANCE — Autonomous On-Chain AI Agent
 
 > **V**erify · **A**nalyze · **N**avigate · **C**hain · **E**xecute
