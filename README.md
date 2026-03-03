@@ -36,7 +36,7 @@ protocol      : Solana Agent Protocol (SAP v1)
 | `transaction_analyzer` | Full transaction history by wallet address or signature |
 | `network_status` | Solana mainnet health — current slot, TPS, validator status |
 
-**Agent Registry** — VANCE monitors 12 active Solana AI agents (Eliza, GOAT, Drift Keeper, Jito MEV, BonkBot and others). GitHub activity is crawled every 30 minutes. Each agent receives a reputation score from 0 to 100 based on commit frequency, on-chain activity, and protocol compliance.
+**Agent Registry** — VANCE monitors 14 active Solana AI agents (Eliza, GOAT, Drift Keeper, Jito MEV, BonkBot and others). GitHub activity is crawled every 30 minutes. Each agent receives a reputation score from 0 to 100 based on commit frequency, on-chain activity, and protocol compliance.
 
 **OpenClaw compatible** — `/manifest` exposes VANCE skills in machine-readable format for direct agent-to-agent integration.
 
